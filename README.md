@@ -6,6 +6,7 @@ This project is a Book Management System implemented using Spring Boot. It allow
 
 ## [Click Here](https://drive.google.com/file/d/1kHMBQzVjLS4lOhE_DYXbD0Ccxq6-nUQ6/view?usp=drive_link)
 
+
 ## Installation
 
 ### Prerequisites
@@ -28,7 +29,6 @@ This project is a Book Management System implemented using Spring Boot. It allow
    
 4. **Run the application:**
    
-   java -jar target/Book_Management_System-0.0.1-SNAPSHOT.jar
    
 
 ## Usage
