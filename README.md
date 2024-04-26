@@ -2,7 +2,7 @@
 
 This project is a Book Management System implemented using Spring Boot. It allows users to manage books by performing CRUD operations through RESTful APIs.
 
-# Sample Working Video Link
+# Sample API Testing Using Swagger (Video Link):
 
 ## [Click Here](https://drive.google.com/file/d/1kHMBQzVjLS4lOhE_DYXbD0Ccxq6-nUQ6/view?usp=drive_link)
 
